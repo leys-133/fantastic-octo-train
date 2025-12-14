@@ -1,0 +1,5 @@
+{
+  "name": "Noor App Launcher",
+  "description": "A streamlined gateway to launch the Noor application with optimized WebView compatibility.",
+  "requestFramePermissions": []
+}
